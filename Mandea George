@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prof. Mandea George-Dan</title>
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f9;
+    color: #333;
+}
+header {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+section {
+    padding: 50px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+h2 {
+    color: #1e3c72;
+    border-bottom: 2px solid #2a5298;
+    padding-bottom: 10px;
+}
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+footer {
+    background: #1e3c72;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #2a5298;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Prof. Mandea George-Dan</h1>
+    <p>Profesor Educație Fizică și Sport</p>
+</header>
+
+<section>
+    <h2>Despre mine</h2>
+    <div class="card">
+        <p>Profesor titular de Educație Fizică și Sport, cu experiență în activități sportive școlare, organizare competiții și dezvoltarea motricității elevilor.</p>
+        <p>Autor lucrare cu ISBN | Participare proiecte educaționale | Pregătire elevi pentru competiții locale și județene.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Activitate profesională</h2>
+    <div class="card">
+        <ul>
+            <li>Organizare competiții școlare (cros, fotbal U10)</li>
+            <li>Coordonator echipe sportive</li>
+            <li>Implementare proiecte educative</li>
+            <li>Activități cu elevi CES</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>Proiecte și Publicații</h2>
+    <div class="card">
+        <p>Lucrare publicată cu ISBN – Biblioteca Națională a României.</p>
+        <p>Temă Grad I: „Optimizarea motricității elevilor prin utilizarea mijloacelor alternative în lecțiile de educație fizică”.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <div class="card">
+        <p>Email: introduce-emailul-tau</p>
+        <a href="#" class="button">Descarcă CV</a>
+    </div>
+</section>
+
+<footer>
+    © 2026 Prof. Mandea George-Dan | Toate drepturile rezervate
+</footer>
+
+</body>
+</html>
